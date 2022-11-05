@@ -48,3 +48,9 @@ jobs:
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v1
+        
+theme: jekyll-theme-minimal
+
+title: Akbar Tri Laksana 
+
+description: Bookmark this to keep an eye on my project updates!
